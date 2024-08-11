@@ -1,6 +1,4 @@
-# Youtube Comments Sentiment Analysis  
-
-<iframe src = 'https://github.com/yobahBertrandYonkou/youtube-comments-sentiment-analysis/blob/main/Final%20Report.pdf'></iframe>
+# PROJECT REPORT - Youtube Comments Sentiment Analysis  
 ## Aim  
 We live in a world where we can easily be anonymous in the digital space. This breaks down barriers and enables people to express themselves on online social spaces. Controversies usually garner a lot of interest and people feel the urge to participate in conversations that surround these controversies. In our project, we aimed to build a machine learning model that can predict the sentiment (either for/against the topic) of a comment said regarding a certain controversial topic. This type of analysis can help with checking the general public opinion on a certain topic or issue.
 
