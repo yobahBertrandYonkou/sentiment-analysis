@@ -33,6 +33,7 @@ In the context of analyzing likes on for/against comments, we used ANOVA to dete
 ## Methods and Materials  
 Our project followed standard sentiment analysis steps (as mentioned in the flow chart) and made use of popular Python packages in this domain.
 
+![Flow Diagram](./images/flow-diagram.png)
 ### Data Collection  
 We collected 803 YouTube comments centered around a video on three Biblical questions for fans of the chosen show, presented by Mr. Todd Friel on his channel ‘Wretched’. The main comments (not including the replies) of this video were scraped using the WebHarvy tool. Along with the comments, we scraped the name of the user, when the comment was posted (we called it time since the video was posted), number of likes, and the number of replies.
 
